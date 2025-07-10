@@ -10,7 +10,7 @@ Welcome to my personal portfolio website built using **Next.js** and **Tailwind 
 Explore my work, get in touch, and see what I'm passionate about in web development.
 
 ### 🔗 Live Site
-👉 (https://portfolio-e7rl.onrender.com)
+👉 (https://portfolio-kappa-one-42.vercel.app)
 
 ---
 
