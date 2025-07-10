@@ -4,7 +4,42 @@ Welcome to my personal portfolio website built using **Next.js** and **Tailwind 
 Explore my work, get in touch, and see what I'm passionate about in web development.
 
 ### 🔗 Live Site
-👉 [https://vivekpapola.vercel.app](https://vivekpapola.vercel.app)
+👉 [# 💼 Vivek Papola - Full Stack Developer Portfolio
+
+Welcome to my personal portfolio website built using **Next.js** and **Tailwind CSS**! 🌟  
+Explore my work, get in touch, and see what I'm passionate about in web development.
+
+### 🔗 Live Site
+👉 (https://portfolio-e7rl.onrender.com)
+
+---
+
+## 📂 Tech Stack
+
+- **Frontend:** Next.js, React.js, Tailwind CSS
+- **Animation:** Framer Motion
+- **Deployment:** Vercel/Render
+
+---
+
+## 📸 Features
+
+- 💡 Dark/Light Mode Toggle
+- 🔗 Smooth Scroll Navigation
+- 🧩 Animated UI with Framer Motion
+- 📞 Contact Form
+- 📄 Resume Download
+
+---
+
+## 📥 Installation
+
+```bash
+git clone https://github.com/your-username/portfolio.git
+cd portfolio
+npm install
+npm run dev
+]
 
 ---
 
