@@ -18,7 +18,7 @@ Explore my work, get in touch, and see what I'm passionate about in web developm
 
 - **Frontend:** Next.js, React.js, Tailwind CSS
 - **Animation:** Framer Motion
-- **Deployment:** Vercel/Render
+- **Deployment:** Vercel
 
 ---
 
